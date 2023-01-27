@@ -1,7 +1,3 @@
-const a = 5;
-const b = 10;
-console.log(a > 0 && b > 0);
-console.log(a == 5 && b == 4);
-console.log(true ||false);
-console.log(a == 3 || b == 10);
-console.log(a == 3 || b == 7);
+const myArr1 = [1,3,5,6,8,9,15];
+console.log(myArr1.indexOf(0));
+console.log(myArr1.indexOf(3));
